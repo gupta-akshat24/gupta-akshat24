@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @gupta-akshat24
-- 👀 I’m interested in Web Development , Python , C / C++
-- 🌱 I’m currently learning Full Stack Web Development
-- 📫 How to reach me (E) - bluegold2001@gmail.com
+👋 I'm Akshat — engineer by training, MBA by choice, curious by nature.
+
+🔭 Exploring the overlap of AI/ML, Data Analytics, and Banking & Finance —
+   where models meet money and decisions get smarter.
+
+🌱 Learning to wield AI as a force multiplier — automating the boring,
+   amplifying the meaningful, and slowly building toward a career in this space.
+
+🧠 Background: ECE + MBA | 1 year in the field | now going deeper.
+
+📫 bluegold2001@gmail.com
 
 <!---
 gupta-akshat24/gupta-akshat24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
